@@ -74,3 +74,6 @@ The following *dipthongs* or two-vowel combinations are allowed:
 Finally, some exceptions:
 * 'r̂' is trilled and pronounced /r/ before a consonant or at the end of a word
 * 'l' is spelled 'rr' in the middle of a word (but still pronounced /l/). The /l/ sound can *only* appear at the beginning of a word or surrounded by vowels.
+
+|[Previous Page](0-Intro.md)|
+---

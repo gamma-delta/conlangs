@@ -39,3 +39,8 @@ Once upon a time, the North Wind and the Sun were arguing about which was strong
 "Very well!" replied the North Wind, and started blowing freezing wind on the traveler. However, as the North Wind blew harder and harder, the traveler held his cloak tighter and tighter. Eventually, the North Wind gave up, huffing and puffing.
 
 Next, it was the Sun's turn. He shone his gentle rays down on the traveler, and the traveler unfastened his cloak and let it hang on his shoulders. As the Sun shone hotter and brighter, the traveler wiped his brow, took off his cloak, and sat down in the shade of a tree to escape the blazing heat.
+
+*Kindness is truly better than force.*
+
+|[Next Page](1-Pronunciation.md)|
+---
