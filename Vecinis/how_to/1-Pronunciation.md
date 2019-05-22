@@ -76,4 +76,4 @@ Finally, some exceptions:
 * 'l' is spelled 'rr' in the middle of a word (but still pronounced /l/). The /l/ sound can *only* appear at the beginning of a word or surrounded by vowels.
 
 |[Previous Page](0-Intro.md)|
----
+|---|
