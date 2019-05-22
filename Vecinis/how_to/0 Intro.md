@@ -1,6 +1,8 @@
 # How to Speak Vecinis
 by Kjever Han tu D̄azmin
+
 Written 153 MLI
+
 Printed by Arrib Qebo tu Marrok
 
 Ar̂o! This book is meant to be a complete guide to learning to speak, read, and understand both main dialects of Vecinis.
