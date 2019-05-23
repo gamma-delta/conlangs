@@ -47,5 +47,5 @@ Next, it was the Sun's turn. He shone his gentle rays down on the traveler, and 
 
 *Kindness is truly better than force.*
 
-|[Next Page: Pronunciation](1-Pronunciation.md)|
+|[Next Chapter: Pronunciation](1-Pronunciation.md)|
 |---|

@@ -75,7 +75,7 @@ In summary:
 Yes, this is very confusing. Don't worry; as you learn more Vecinis, you'll get used to it.
 
 ## Animacy
-As if ergativity wasn't enough, Vecinis also distinguishes nouns based on **animacy**, or how alive something is. Nouns are usually either animate or inanimate, but some nouns change meanings depending on whether they are treated animately or inanimately.
+As if ergativity wasn't enough, Vecinis also distinguishes nouns based on **animacy**, or how alive something is. Nouns are usually only animate or inanimate, but some nouns change meanings depending on whether they are treated animately or inanimately.
 
 > This is similar to gender systems like they have in Spanish, Arabic, and a lot of other languages. 
 
@@ -103,5 +103,5 @@ Here's some example sentences. Don't worry about why they mean what they mean ri
 
 We'll assemble all these little bits into sentences in the next chapter. For now, look back at those commonly used phrases at the beginning of the page and see if you can start to recognize the suffixes.
 
-|[Previous Page: Pronunciation](1-Pronunciation.md)|
+|[Previous Chapter: Pronunciation](1-Pronunciation.md)|
 |---|

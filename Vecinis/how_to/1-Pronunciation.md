@@ -80,5 +80,5 @@ Finally, some exceptions:
 * 'r̂' is trilled and pronounced /r/ before a consonant or at the end of a word
 * 'l' is spelled 'rr' in the middle of a word (but still pronounced /l/). The /l/ sound can *only* appear at the beginning of a word or surrounded by vowels.
 
-|[Previous Page: Intro](0-Intro.md)|[Next Page: Basics](2-Basics.md)
+|[Previous Chapter: Intro](0-Intro.md)|[Next Chapter: Basics](2-Basics.md)
 |---|---|
