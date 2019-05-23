@@ -103,5 +103,12 @@ Here's some example sentences. Don't worry about why they mean what they mean ri
 
 We'll assemble all these little bits into sentences in the next chapter. For now, look back at those commonly used phrases at the beginning of the page and see if you can start to recognize the suffixes.
 
+## Culture: Vecinik Names
+In contrast to Strannic names, where a family keeps a last name and gives each new child a first name, Vecinik names are not based on family much. Vecinik names go `(word) (word) tu (given name)`. Vecinik chilren are named after their mother or father; baby girls are `(Mother's name) (girl) tu (given name)` and baby boys are `(Father's name) (boy) tu (given name)`. As they grow up, they start to pick a new name for themselves. In the North, it's usually based on their profession or apprenticeship, and in the South, it's usually based on their character traits. Their new name becomes official on their 17th birthday.
+
+For example, my name is Kjever Han tu D̄azmin. Translated, this is "Clever Hand Jasmine" or "Jasmine of the Clever Hands," a reflection of my skill with crafts and writing. Because I am from the South, it's my name is a reflection of that character trait. My father, who is from the north, is named Arrib Qebo tu Marrok. Translated, this is "Book Master Malloc" or "Malloc the Bookbinder".
+
+If you want, you can pick your own Vecinik name! But, I would reccomend waiting until you learn some more words.
+
 |[Previous Chapter: Pronunciation](1-Pronunciation.md)|
 |---|
