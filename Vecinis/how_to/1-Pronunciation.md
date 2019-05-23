@@ -1,6 +1,11 @@
-# Pronunciation
+# 1: Pronunciation
+Vecinis is spelled more or less the same way it is said, although there are a few exceptions. This makes it fairly easy to learn from a book.
 
-Vecinis is more or less spelled the same way it is said, although there are a few exceptions. In addition, there are two ways to write Vecinis; one for normal writing and one called "dialogue writing" used for transcribing dialogue or when Vecinis diacritics are not avaliable (for example, when using a Strannic printing press).
+## In this chapter:
+* Sounds associated with certain letters
+* Spelling rules and exceptions
+
+There are two ways to write Vecinis. One is used for common, normal writing, and one is called "dialogue writing" and used for dialogue, phonetic transcription, or when Vecinis diacritics are not avaliable (for example, when using a Strannic printing press).
 
 > Yes, this means you can type Vecinis with just a normal keyboard.
 
@@ -42,16 +47,16 @@ x|x|/x/|(none)|/x/|(none)
 z|z|/z/|**z**one|/z/|**z**one
 z̄|zh|/ʒ/|trea**s**ure|/ʒ/|trea**s**ure
 
-Two letters can be combined into *digraphs*, which makes some new sounds:
+Two letters can be combined into **digraphs**, which makes some new sounds:
 
 Digraph|Dialogue|North|Strannic (North)|South|Strannic (South)
 :---:|:---:|:---:|:---:|:---:|:---:
 rr|l|/l/|me**l**on|/l/|me**l**on
 dr|dhr|/d͡ʒɹ/|**dr**op|/d͡ʒɹ/|**dr**op
-tr|thr|/t͡ʃɹ/|**tr**ip|/t͡ʃɹ/|**tr**ip
+tr|thr|/t͡ɬ/|(none)|/t͡ʃɹ/|**tr**ip
 nj|nj|/ɲ/|(none)|/ɲ/|(none)
 
-The following two-consonant combinations are allowed:
+The following two-consonant combinations are allowed and simply pronounced together:
 <table>
     <tr>
         <td>pf</td><td>st</td><td>kj</td>
@@ -62,7 +67,7 @@ The following two-consonant combinations are allowed:
     </tr>
 </table>
 
-The following *dipthongs* or two-vowel combinations are allowed:
+The following **dipthongs** or two-vowel combinations are allowed:
 <table>
     <tr>
         <td>au</td><td>ou</td>
@@ -75,5 +80,5 @@ Finally, some exceptions:
 * 'r̂' is trilled and pronounced /r/ before a consonant or at the end of a word
 * 'l' is spelled 'rr' in the middle of a word (but still pronounced /l/). The /l/ sound can *only* appear at the beginning of a word or surrounded by vowels.
 
-|[Previous Page](0-Intro.md)|
-|---|
+|[Previous Page: Intro](0-Intro.md)|[Next Page: Basics](2-Basics.md)
+|---|---|

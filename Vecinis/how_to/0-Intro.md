@@ -1,9 +1,14 @@
-# How to Speak Vecinis
+# 0: How to Speak Vecinis
 by Kjever Han tu D̄azmin
 
 Written 153 MLI
 
 Printed by Arrib Qebo tu Marrok
+
+## In this chapter:
+* A brief overview of Vecinis and the country of Vecinâ
+* North and South Vecinis, the two main dialects
+* A sample text
 
 Ar̂o! This book is meant to be a complete guide to learning to speak, read, and understand both main dialects of Vecinis.
 
@@ -26,7 +31,7 @@ I always think a good way to get a sense of a language is to see some written ou
 #### Southern Vecinis
 Makjabamiet̄, Dûn Eit tu Xixs̗̄ xiaz Dûn Mako tu Suknjos̗̄ qe ar̂etso vetsi̗ starkv̗ avbezki̗ râsteretsti. Etsos̗̄m maroki̗ steretsti iet̄i, pi Onik̗ tragi kjoks̗̄ ri gor̂abo jar̂ekiansti gor̂ai.
 
-"Peqik j'avi xiasi qesh pi arhPeqik teiki znikenkesi qe Onik anrahtrag Th'Onik kjokish av go vetsi starkiv?" Mako tu Suknjok̗ kavi̗ du'asti.
+"Peqik j'avi xiasi qesh pi arhPeqik teiki znikenkesi qe Onik anrahthrag Th'Onik kjokish av go vetsi starkiv?" Mako tu Suknjok̗ kavi̗ du'asti.
 
 > I'm not going to translate the rest of this right now, because I'm not confident enough in my Vecinis skills.
 
@@ -42,5 +47,5 @@ Next, it was the Sun's turn. He shone his gentle rays down on the traveler, and 
 
 *Kindness is truly better than force.*
 
-|[Next Page](1-Pronunciation.md)|
+|[Next Page: Pronunciation](1-Pronunciation.md)|
 |---|
