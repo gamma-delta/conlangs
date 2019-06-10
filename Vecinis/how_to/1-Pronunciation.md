@@ -20,10 +20,10 @@ Letter|Dialogue|North|Strannic (North)|South|Strannic (South)
 a|a|/ɑ/|wr**o**ng|/a/|r**o**t
 â|ah|/a/|r**o**t|/æ/|c**a**t
 b|b|/b/|**b**ox|/b/|**b**ox
-c|c|/ʃ/|**sh**ip|/s̪/|(none)
+c|c|/ʃ/|**sh**ip|/æ/|(none)
 d|d|/d/|**d**ip|/d/|**d**ip
-d̄|dh|/d͡ʒ/|**j**ump|/d͡ʒ/|**j**ump
-e|e|/e/|b**e**d|/ɛ/|b**e**d
+d̄|dh|/d͡ʒ/|**j**ump|/æ/|**j**ump
+e|e|/e/|b**e**d|/æ/|b**e**d
 g|g|/g/|**g**et|/g/|**g**et
 i|i|/i/|sl**ee**p|/i/|sl**ee**p
 j|j|/j/|**y**olk|/j/|**y**olk
@@ -77,7 +77,7 @@ The following **dipthongs** or two-vowel combinations are allowed:
 </table>
 
 Finally, some exceptions:
-* 'r̂' is trilled and pronounced /r/ before a consonant or at the end of a word
+* 'r̂' is trilled and pronounced /r/ before a consonant or at the beginning or end of a word
 * 'l' is spelled 'rr' in the middle of a word (but still pronounced /l/). The /l/ sound can *only* appear at the beginning of a word or surrounded by vowels.
 
 |[Previous Chapter: Intro](0-Intro.md)|[Next Chapter: Basics](2-Basics.md)
