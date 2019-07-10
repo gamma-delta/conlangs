@@ -142,7 +142,7 @@ Future|-kesi|-gez
 Possible Future|-esi|-esi
 Change in State*|-te|-de
 
-*Change in State emphasizes something changed as a result of the verb. It usually refers to the past but may refer to other times.
+\* Change in State emphasizes something changed as a result of the verb. It usually refers to the past but may refer to other times.
 
 ## Adjectives
 
@@ -170,8 +170,6 @@ Affixes can only be placed on words with a maximum of one other word affecting t
 
 Pi ... go may also be used to group words together to aid understanding. It's often used with words such as iet̄ that require more complexity. This usage of pi ... go is not mandatory, and is often dropped when used in an adverb moved to the front of a sentence.
 
-This pattern is almost universally abbreviated on pronouns. Each relavent contraction is marked in the Vocabulary section. An abbreviated Tu pattern still makes the possessed noun marked for absolutive.
-
 ## Verb Phrases
 
 In order to say something like "I like to read books" or "I like reading books," one must use a verb phrase. A verb phrase converts an action (in this case, "read books") into a noun useable as a subject or object.
@@ -198,6 +196,8 @@ Tu A(ergative) B(absolutive) meaning "A's B."
 Note no article is needed on A or B. If an article is truly required on A, (don't worry about it because it's not in the text.)
 
 > Tu Râk̗ arrib: My book
+
+This pattern is almost universally abbreviated on pronouns. Each relavent contraction is marked in the Vocabulary section. An abbreviated Tu pattern still makes the possessed noun marked for absolutive.
 
 ### Iet̄
 Iet̄ is used to place events in time.
