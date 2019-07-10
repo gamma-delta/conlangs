@@ -1,0 +1,156 @@
+RECIEVED:
+sâe sẽ dí cẹu nì èbbo hyu nì bé bêshi aurauraur<cowering>.
+at nì hudu běra hâsa mọγuọγu<rubbing hands together>. 
+[longer prosodic break] nì médu sẽ ûẹ pau ámoh iyugẹ̃ hiiiiii<imitating roar>. 
+ryọ̀ nì ọ́r kok háyi byubyu<imitating sobbing, fear>. 
+at èbbo bâtnu kok mẹa trrrrrrr cúe ũ yàisì šopšopšop. 
+ûẹ pau cẹu ọ́r myâ háyi hiiii<roar>, yà cẹu ũ háyiháyi cackckck<rubbing arm skin>.
+
+ADDITIONAL INFO FROM PMS:
+- SOV generally
+- Capitalism is evil
+
+--
+
+sâe sẽ dí cẹu nì èbbo hyu nì bé bêshi aurauraur<cowering>.
+
+{
+    sâe : to be small -> small
+    sẽ : Same Subject relativiser
+    dí : Classifier for people (non-hostile nor family)
+    cẹu : boy
+}
+{
+    nì : 3rd person singular animate pronoun
+    èbbo : Classifier for deity / planet / clouds
+    hyu : the sun
+    nì : 3rd person singular animate pronoun
+}
+{
+    bé : to be at
+    bêshi : to be distant from
+}
+    aurauraur : fear of the supernatural ideophone
+
+The little boy is far away from the eerie sun.
+
+--
+
+at nì hudu běra hâsa mọγuọγu<rubbing hands together>. 
+
+{
+    at : DS sequential
+    nì : 3rd person singular animate pronoun
+}
+{
+    hudu : Classifier for flexible flat stuff
+    běra : clothing, flag
+}
+{
+    hâsa : to hold (and will continue holding)
+}
+    mọγuọγu : warm, safe ideophone
+
+He is holding a comfortably warm piece of clothing.
+
+--
+
+[longer prosodic break] nì médu sẽ ûẹ pau ámoh iyugẹ̃ hiiiiii<imitating roar>.
+
+{
+    nì : 3rd person singular animate pronoun
+}
+{
+    médu : be in
+}
+{
+    sẽ : Same Subject relativiser
+    ûẹ : Classifier for family members
+    pau ámoh -> pau a + móh : father and mother
+}
+{
+    iyugẹ̃ : to be hot / angry
+}
+    hiiiiii : ANGRY ideophone
+
+His parents are very angry at him.
+
+--
+
+ryọ̀ nì ọ́r kok háyi byubyu<imitating sobbing, fear>.  
+
+{
+    ryọ̀ : (cause clause ryọ̀ effect clause)
+}
+{
+    nì : 3rd person singular animate pronoun
+    ọ́r : to go to, to run, to wait
+}
+{
+    kok : body, bulk of something
+    háyi : to hold (and he's done)
+}
+    byubyu : panicked sobbing ideophone
+
+Because of that, he sadly went to hold the body.
+
+--
+
+at èbbo bâtnu kok mẹa trrrrrrr cúe ũ yàisì šopšopšop. 
+
+{
+    at : DS sequential
+    èbbo : Classifier for deity / planet / clouds
+    bâtnu : sky
+}
+{
+    kok : body, bulk of something //how tf do i fit this in
+}
+{
+    mẹa : open something, discover
+}
+{
+    trrrrrrr : heavy raindrops
+}
+{
+    cúe : Classifier for earth things
+    ũ : dirt
+    yàisì -> yài + sì : to be soaked due to (due to the heavy rain / sky)
+}
+    šopšopšop : squelching mud ideophone
+
+The sky rained heavily and soaked the dirt.
+
+--
+
+ûẹ pau cẹu ọ́r myâ háyi hiiii<roar>, yà cẹu ũ háyiháyi cackckck<rubbing arm skin>.
+
+{
+    ûẹ : Classifier for family members
+    pau : father
+}
+{
+    cẹu : boy
+}
+{
+    ọ́r : to go to, to run, to wait
+}
+{
+    myâ : to see / notice
+    háyi : to hold
+} "to notice" (and keep an eye on?)
+{
+    hiiii : ANGERY ideophone
+}
+,
+{
+    yà : DS simultaneous (the boy)
+    cẹu : boy
+}
+{
+    ũ : dirt
+    háyiháyi -> háyi + háyi : to hold tight
+}
+    cackckck : covered in sticky liquid
+
+The father saw the boy and ran angrily towards him. The boy held the sticky dirt tight.
